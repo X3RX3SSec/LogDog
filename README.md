@@ -44,7 +44,7 @@ pip3 install watchdog termcolor
 
 ```bash
 git clone https://github.com/X3RX3SSec/LogDog.git
-cd logdog
+cd LogDog
 ```
 
 2. Make it executable:
